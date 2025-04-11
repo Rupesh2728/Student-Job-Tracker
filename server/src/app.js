@@ -16,8 +16,10 @@ const JobRouter = require('./routes/Job/Job.route');
 //     credentials: true,
 // }));
 
+// origin:'http://localhost:5173',
+
 app.use(cors({
-    origin:'http://localhost:5173',
+    origin:'https://student-job-tracker-khaki.vercel.app/signin',
     credentials: true,
 }));
 
