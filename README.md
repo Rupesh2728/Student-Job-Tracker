@@ -1,6 +1,6 @@
 ﻿<h1 align="center">Student Job Tracker</h1>
 <h3 align="center">A Full-Stack Responsive Web Application that allows students to Register and Login to efficiently Add, Delete, and Update their Job Applications.</h3>
-<h4 align="center">You can visit the website at <a href="https://simple-movie-explorer.vercel.app" target="blank">https://student-job-tracker-khaki.vercel.app/signin</a></h3>
+<h4 align="center">You can visit the website at <a href="https://student-job-tracker-khaki.vercel.app/signin" target="blank">https://student-job-tracker-khaki.vercel.app/signin</a></h3>
 
 <h2 align="left">Tech Stack and Tools :</h2>
 <p align="left">
