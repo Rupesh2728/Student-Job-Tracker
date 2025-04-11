@@ -73,7 +73,7 @@ const AddJob = async (req, res) => {
       }
       
       const checkEmail = await JobModel.findOne({ useremail: useremail, company: company, title: title });
-  
+      
       if (checkEmail) {
           console.log("reject");
           return res.status(400).json({
