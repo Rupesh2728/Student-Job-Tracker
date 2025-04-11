@@ -2,6 +2,8 @@
 <h3 align="center">A Full-Stack Responsive Web Application that allows students to Register and Login to efficiently Add, Delete, and Update their Job Applications.</h3>
 <h4 align="center">You can visit the website at <a href="https://student-job-tracker-khaki.vercel.app/signin" target="blank">https://student-job-tracker-khaki.vercel.app/signin</a></h3>
 
+<h4 align="center">Note*** : The website runs slowly as free tier of render is utilised. So please wait patiently after performing an action</h3>
+
 <h2 align="left">Tech Stack and Tools :</h2>
 <p align="left">
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="80" height="80"/> </a>
