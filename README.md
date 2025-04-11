@@ -20,24 +20,36 @@
 
 <h2 align="left">Features</h2>
 
-- Code cleaning and structure, **Well organised code, using MVC and REST Architecture in the server**
+- **Add Job Application** :
+Users can add new job applications with fields including: Company, Role, Status (Applied / Interview / Offer / Rejected), Date of Application, and Link.
 
-- Different Filter Options, **Either, Filter by Status or Filter by Date or Both**
+- **List All Applications**:
+All job applications are displayed by default on the homepage in a clean, organized, and responsive layout.
 
-- Implemented a kind of **Auto-Search** which provides **relevant suggestions and details before the users finish their queries**
+- **Filter Options**:
+Users can filter applications **by Status** (e.g., only show "Interview" or "Offer") or **by Date of Application** Or apply both filters simultaneously for refined results.
 
-- **Well designed and cool,interactive responsive UI**
+- **Update Status**:
+Users can update the status of any job application at any time.
 
-- User can see the **All Job details** by **default** on the home page
+- **Delete Application**:
+Users can delete any job application entry with a single click.
 
-- **Deployed both Frontend and Backend, on Vercel and Render respectively**
+- **Well-designed Interactive UI**:
+The frontend is modern, responsive, and user-friendly, with interactive components for seamless experience.
 
-- Included various Third-party Libraries,**Express,Mongoose,dotenv,CORS etc.**
+- **Clean and Modular Code Structure**:
+Backend follows MVC Architecture
 
-- Used **MongoDB Cloud Database** to store Data
+- **RESTful APIs for robust and scalable development**
 
+- Proper separation of concerns and reusable components
 
+- Deployed on Front-end on **Vercel** and  Back-end on **Render**
+  
+- Leveraged usage of popular and efficient libraries including **Express, Mongoose, dotenv, CORS, and more**
 
+- Used **MongoDB Cloud Database** for secure, scalable, and efficient data storage
 
 <h2 align="left">Manual Project Installation</h2>
 <h3>To get started with this project, clone the repository and install the necessary dependencies</h3>
