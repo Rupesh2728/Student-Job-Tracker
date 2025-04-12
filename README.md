@@ -91,7 +91,7 @@ https://github.com/user-attachments/assets/2ae86cb6-a4f5-4ae5-bebc-8522be32bf60
 
 - 👨‍💻 Project is available at [https://github.com/Rupesh2728/Student-Job-Tracker.git]
   
-- MongoDB Atlas account : ***rupesh.p21@iiits.in**
+- MongoDB Atlas account : **rupesh.p21@iiits.in**
 
 
 
